@@ -1,0 +1,395 @@
+Name,Level,Price,Time (min),Source
+Wheat,1,3,2,Field (1st crop)
+Egg,1,18,20,Chicken (1st animal product)
+Corn,2,7,5,Field (2nd crop)
+Bread,2,21,5,Bakery
+Chicken feed,3,7,5,Feed Mill
+Soybean,5,10,20,Field (3rd crop)
+Cow feed,6,14,10,Feed Mill
+Milk,6,32,60,Cow (2nd animal product)
+Cream,6,50,20,Dairy
+Sugarcane,7,14,30,Field (4th crop)
+Corn bread,7,72,30,Bakery
+Brown sugar,7,32,20,Sugar Mill
+Popcorn,8,32,30,Popcorn Pot
+Carrot,9,7,10,Field (5th crop)
+Butter,9,82,30,Dairy
+Pancake,9,108,30,BBQ Grill
+Pig feed,10,14,20,Feed Mill
+Bacon,10,50,240,Pig (3rd animal product)
+Cookie,10,104,60,Bakery
+Bacon and eggs,11,201,60,BBQ Grill
+Cheese,12,122,60,Dairy
+Indigo,13,25,120,Field (6th crop)
+White sugar,13,50,40,Sugar Mill
+Carrot pie,14,82,60,Pie Oven
+Pumpkin,15,32,180,Field (7th crop)
+Pumpkin pie,15,158,120,Pie Oven
+Apple,15,39,960,Apple tree (8th crop)
+Sheep feed,16,14,30,Feed Mill
+Wool,16,54,360,Sheep (4th animal product)
+Buttered popcorn,16,126,60,Popcorn Pot
+Sweater,17,151,120,Loom
+Cotton,18,28,150,Field (9th crop)
+Bacon pie,18,219,180,Pie Oven
+Syrup,18,90,90,Sugar Mill
+Cotton fabric,18,108,30,Loom
+Hamburger,18,180,120,BBQ Grill
+Raspberry,19,46,1080,Raspberry bush (10th crop)
+Raspberry muffin,19,140,45,Bakery
+Blue woolly hat,19,111,60,Loom
+Cotton shirt,19,241,45,Sewing Machine
+Blue sweater,20,208,180,Loom
+Carrot cake,21,165,90,Cake Oven
+Wooly chaps,21,309,90,Sewing Machine
+Cherry,22,68,1620,Cherry tree (11th crop)
+Cream cake,23,219,180,Cake Oven
+Red berry cake,23,255,60,Cake Oven
+Cheesecake,24,284,240,Cake Oven
+Silver ore,24,18,0,Mine
+Gold ore,24,21,0,Mine
+Platinum ore,24,32,0,Mine
+Silver bar,24,147,480,Smelter
+Chili pepper,25,36,240,Field (12th crop)
+Chili popcorn,25,122,120,Popcorn Pot
+Gold bar,25,180,720,Smelter
+Platinum bar,25,205,960,Smelter
+Violet dress,25,327,135,Sewing Machine
+Blackberry,26,82,1920,Blackberry bush (13th crop)
+Blackberry muffin,26,226,45,Bakery
+Carrot juice,26,46,30,Juice Press
+Red lure,27,0,90,Lure Workbench
+Green lure,27,0,75,Lure Workbench (2)
+Blue lure,27,0,60,Lure Workbench (3)
+Purple lure,27,0,45,Lure Workbench (4)
+Gold lure,27,0,30,Lure Workbench (5)
+Fish fillet,27,54,0,Fish (5th animal product)
+Fish burger,27,226,120,BBQ Grill
+Apple pie,28,270,150,Pie Oven
+Fish pie,28,226,120,Pie Oven
+Apple juice,28,129,120,Juice Press
+Vanilla ice cream,29,172,120,Ice Cream Maker
+Tomato,30,43,360,Field (14th crop)
+Roasted tomatoes,30,118,90,BBQ Grill
+Cherry juice,30,216,150,Juice Press
+Fishing net,30,0,240,Net Maker
+Mystery net,30,0,180,Net Maker
+Tomato juice,31,162,90,Juice Press
+Berry juice,31,205,180,Juice Press
+Goat feed,32,14,40,Feed Mill
+Goat milk,32,64,480,Goat (6th animal product)
+Goat cheese,33,162,90,Dairy
+Pizza,33,190,15,Bakery
+Coal,33,10,0,Mine
+Refined coal,33,108,360,Smelter
+Cherry popsicle,33,352,180,Ice Cream Maker
+Strawberry,34,50,480,Field (15th crop)
+Feta pie,34,223,90,Pie Oven
+Iron ore,34,14,0,Mine
+Iron bar,34,129,420,Smelter
+Strawberry ice cream,34,331,240,Ice Cream Maker
+Wheat bundle,34,50,90,Feed Mill
+Meat bucket,34,72,45,Feed Mill
+Potato,35,36,220,Field (16th crop)
+Strawberry cake,35,316,180,Cake Oven
+Baked potato,35,298,35,BBQ Grill
+Apple jam,35,219,360,Jam Maker
+Chocolate cake,36,320,120,Cake Oven
+Casserole,36,367,120,Pie Oven
+Cacao,36,86,2040,Cacao tree (17th crop)
+Raspberry jam,36,252,420,Jam Maker
+Spicy pizza,37,226,15,Bakery
+Blackberry jam,37,388,480,Jam Maker
+Potato feta cake,38,309,120,Cake Oven
+Cherry jam,38,334,420,Jam Maker
+Bracelet,38,514,120,Jeweler
+Potato bread,39,284,45,Bakery
+Shepherd's pie,39,280,100,Pie Oven
+Chocolate ice cream,39,342,150,Ice Cream Maker
+Honeycomb,39,68,0,Beehive tree (7th animal product)
+Necklace,39,727,180,Jeweler
+Honey,39,154,20,Honey Extractor
+Honey popcorn,40,360,90,Popcorn Pot
+Diamond ring,40,824,240,Jeweler
+Fish and chips,41,244,90,BBQ Grill
+Iron bracelet,41,658,90,Jeweler
+Coffee bean,42,64,1500,Coffee bush (18th crop)
+Espresso,42,248,5,Coffee Kiosk
+Honey apple cake,42,482,200,Cake Oven
+Caffè latte,43,219,10,Coffee Kiosk
+Chocolate popcorn,44,248,150,Popcorn Pot
+Lobster trap,44,0,120,Net Maker
+Lobster tail,44,201,360,Lobster Pool
+Frutti di Mare pizza,45,403,15,Bakery
+Caffè mocha,45,291,15,Coffee Kiosk
+Raspberry mocha,46,259,30,Coffee Kiosk
+Lobster soup,46,612,150,Soup Kitchen
+Hot chocolate,47,316,25,Coffee Kiosk
+Tomato soup,47,478,90,Soup Kitchen
+Red scarf,48,288,150,Loom
+Lobster skewer,48,417,40,BBQ Grill
+Beeswax,48,234,45,Honey Extractor
+Strawberry candle,48,370,120,Candle Maker
+Rustic bouquet,49,208,45,Flower Shop
+Pumpkin soup,49,392,120,Soup Kitchen
+Asparagus,49,43,360,Field (19th crop)
+Asparagus quiche,49,302,120,Pie Oven
+Strawberry jam,50,270,450,Jam Maker
+Duck trap,50,0,60,Net Maker
+Duck feather,50,140,180,Duck Salon
+Sesame,50,18,60,Field (20th crop)
+Sesame ice cream,50,176,120,Ice Cream Maker
+Caramel apple,51,255,120,Candy Machine
+Pillow,51,676,180,Sewing Machine
+Asparagus soup,51,255,60,Soup Kitchen
+Toffee,52,176,90,Candy Machine
+Raspberry candle,52,360,105,Candle Maker
+Pineapple,52,14,30,Field (21st crop)
+Pineapple juice,52,68,45,Juice Press
+Fish soup,53,298,180,Soup Kitchen
+Lily,53,21,90,Field (22nd crop)
+Soy sauce,54,154,180,Sauce Maker
+Chocolate,54,460,1200,Candy Machine
+Fancy cake,54,450,15,Cake Oven
+Rice,56,18,45,Field (23rd crop)
+Sushi roll,56,489,60,Sushi Bar
+Olive,57,82,1440,Olive tree (24th crop)
+Lollipop,57,342,720,Candy Machine
+Lettuce,58,32,210,Field (25th crop)
+Feta salad,58,745,90,Salad Bar
+Lobster sushi,59,637,60,Sushi Bar
+Blanket,59,1098,210,Sewing Machine
+Jelly beans,60,684,1440,Candy Machine
+Olive oil,60,277,45,Sauce Maker
+Garlic,60,14,30,Field (26th crop)
+Garlic bread,60,198,15,BBQ Grill
+Veggie bagel,61,532,40,Sandwich Bar
+Mayonnaise,62,367,15,Sauce Maker
+BLT salad,62,723,105,Salad Bar
+Caramel latte,62,345,15,Coffee Kiosk
+Peanuts,62,234,0,Squirrel House (10th animal product)
+Sunflower,63,21,90,Field (27th crop)
+Egg sushi,63,550,120,Sushi Bar
+Honey peanuts,63,468,40,Candy Machine
+Seafood salad,64,763,120,Salad Bar
+Berry smoothie,64,547,75,Smoothie Mixer
+Snack mix,64,309,45,Popcorn Pot
+Bright bouquet,65,338,20,Flower Shop
+Bacon toast,65,648,100,Sandwich Bar
+Pineapple cake,65,259,75,Cake Oven
+Chocolate pie,65,514,75,Pie Oven
+Cabbage,65,18,45,Field (28th crop)
+Cabbage soup,65,270,90,Soup Kitchen
+Lemon,66,93,1740,Lemon tree (29th crop)
+Lemon curd,66,378,25,Sauce Maker
+Olive dip,66,468,45,Sauce Maker
+Egg sandwich,66,583,80,Sandwich Bar
+Green smoothie,66,320,45,Smoothie Mixer
+Fresh pasta,67,43,15,Pasta Maker
+Pasta salad,67,759,150,Salad Bar
+Lemon pie,67,446,135,Pie Oven
+Grilled asparagus,67,486,75,BBQ Grill
+Onion,68,39,300,Field (30th crop)
+Grilled onion,68,190,60,BBQ Grill
+Lemon cake,68,896,150,Cake Oven
+Lemon essential oil,68,288,10,Essential Oils Lab
+Peanut butter milkshake,68,619,100,Ice Cream Maker
+Tomato sauce,69,230,30,Sauce Maker
+Honey toast,69,255,60,Sandwich Bar
+Fried rice,69,205,60,Wok Kitchen
+Yogurt smoothie,70,349,60,Smoothie Mixer
+Cloche hat,70,468,120,Hat Maker
+Cucumber,70,14,35,Field (31st crop)
+Cucumber smoothie,70,266,40,Smoothie Mixer
+Orange,71,97,1860,Orange tree (32nd crop)
+Flower shawl,71,295,90,Loom
+Orange juice,71,234,120,Juice Press
+Peanut butter and jelly sandwich,71,601,25,Sandwich Bar
+Onion soup,72,327,150,Soup Kitchen
+Lemon candle,72,457,135,Candle Maker
+Top hat,72,619,210,Hat Maker
+Gnocchi,72,475,80,Pasta Kitchen
+Beetroot,72,14,40,Field (33rd crop)
+Winter veggies,72,198,25,BBQ Grill
+Rice noodles,73,100,20,Pasta Maker
+Noodle soup,73,432,120,Soup Kitchen
+Gracious bouquet,73,500,40,Flower Shop
+Bell pepper,74,36,270,Field (34th crop)
+Marmalade,74,457,510,Jam Maker
+Sun hat,74,558,150,Hat Maker
+Veggie lasagna,74,532,100,Pasta Kitchen
+Veggie platter,74,266,120,Salad Bar
+Hot dog,75,370,30,Hot Dog Stand
+Coleslaw,75,468,75,Salad Bar
+Cotton Candy,75,226,30,Candy Machine
+Peach,76,100,1800,Peach tree (35th crop)
+Peach tart,76,435,150,Pie Oven
+Tofu dog,76,367,45,Hot Dog Stand
+Big sushi roll,76,648,90,Sushi Bar
+Beetroot salad,76,234,45,Salad Bar
+Plain Donut,76,129,15,Donut Maker
+Salsa,77,252,20,Sauce Maker
+Taco,77,396,45,Taco Kitchen
+Colourful omelet,77,136,60,Omelet Station
+Spring omelet,77,230,40,Omelet Station
+Summer rolls,78,316,60,Salad Bar
+Orange sorbet,78,399,210,Ice Cream Maker
+Corn dog,78,529,60,Hot Dog Stand
+Potato soup,78,255,150,Soup Kitchen
+Ginger​​​​,78,28,150,Field (36th crop)
+Sesame brittle,78,270,60,Candy Machine
+Affogato​​​​,78,435,20,Ice Cream Maker
+Fish taco,79,392,90,Taco Kitchen
+Peach jam,79,464,480,Jam Maker
+Lobster pasta,79,637,120,Pasta Kitchen
+Cucumber sandwich,79,464,35,Sandwich Bar
+Spicy fish,79,543,90,Wok Kitchen
+Sprinkled Donut,79,313,20,Donut Maker
+Cheese omelet,79,464,90,Omelet Station
+Tea leaf,80,43,390,Field (37th crop)
+Green tea,80,241,30,Tea Stand
+Onion dog,80,306,75,Hot Dog Stand
+Stuffed peppers,80,352,20,BBQ Grill
+Ginger essential oil,80,162,20,Essential Oils Lab
+Milk tea,81,190,45,Tea Stand
+Bell pepper soup,81,439,60,Soup Kitchen
+Chocolate fondue,81,626,25,Fondue Pot
+Peony,82,36,240,Field (38th crop)
+Quesadilla,82,241,60,Taco Kitchen
+Fruit salad,82,597,120,Salad Bar
+Crunchy Donut,82,594,30,Donut Maker
+Pasta carbonara,83,410,150,Pasta Kitchen
+Peach ice cream,83,450,180,Ice Cream Maker
+Honey tea,83,313,40,Tea Stand
+Broccoli,83,21,90,Field (39th crop)
+Broccoli pasta,83,345,60,Pasta Kitchen
+Rice omelet,83,572,120,Omelet Station
+Summer salad,84,554,180,Salad Bar
+Grapes,84,32,180,Field (40th crop)
+Grape juice,84,104,150,Juice Press
+Onion melt,84,417,90,Sandwich Bar
+Honey soap,84,327,60,Bath Kiosk
+Lemon lotion,84,403,75,Bath Kiosk
+Colorful Candles,84,324,110,Candle Maker
+Mint,85,32,180,Field (41st crop)
+Mint essential oil,85,172,15,Essential Oils Lab
+Grape jam,85,162,390,Jam Maker
+Mint ice cream,85,288,135,Ice Cream Maker
+Flower crown,86,331,120,Hat Maker
+Lemon tea,86,241,20,Tea Stand
+Bacon fondue,86,507,30,Fondue Pot
+Peanut noodles,86,597,45,Wok Kitchen
+Gingerbread cookie,86,273,30,Bakery
+Cream Donut,86,230,25,Donut Maker
+Nachos,87,432,75,Taco Kitchen
+Spicy pasta,87,576,90,Pasta Kitchen
+Broccoli soup,87,237,75,Soup Kitchen
+Bacon fries,87,302,25,Deep Fryer
+Potato Omelet,87,270,75,Omelet Station
+Mixed smoothie,88,504,30,Smoothie Mixer
+Banana,88,104,1620,Banana tree  (42nd crop)
+Iced banana latte,88,277,20,Coffee Kiosk
+Apple ginger tea,88,169,30,Tea Stand
+Bacon Donut,88,388,30,Donut Maker
+Passion fruit,88,18,60,Field (43rd crop)
+Passion fruit juice,88,64,45,Juice Press
+Orange tea,89,255,40,Tea Stand
+Fruit cake,89,450,180,Cake Oven
+Mushroom,89,10,20,Field (44th crop)
+Mushroom salad,89,216,60,Salad Bar
+Tofu stir fry,89,306,75,Wok Kitchen
+Candy bouquet,90,554,20,Flower Shop
+Eggplant,90,14,40,Field (45th crop)
+Grilled eggplant,90,324,40,BBQ Grill
+Banana bread,91,424,30,Bakery
+Cheese fondue,91,493,20,Fondue Pot
+Hand pies,91,295,20,Deep Fryer
+Pickles,91,270,240,Preservation Station
+Watermelon,92,39,300,Field (46th crop)
+Iced tea,92,252,30,Tea Stand
+Goat cheese toast,92,302,50,Sandwich Bar
+Watermelon juice,92,108,60,Juice Press
+Birthday Bouquet,92,349,20,Flower Shop
+Passion fruit pie,92,111,50,Pie Oven
+Soft bouquet,93,298,30,Flower Shop
+Black sesame smoothie,93,313,45,Smoothie Mixer
+Exfoliating soap,93,363,60,Bath Kiosk
+Filled Donut,93,403,35,Donut Maker
+Plum,94,82,1440,Plum tree (47th crop)
+Banana pancakes,94,352,60,BBQ Grill
+Plum jam,94,385,300,Jam Maker
+Clay,94,18,110,Field (48th crop)
+Tea pot,94,219,220,Pottery Studio
+Floral candle,95,442,120,Candle Maker
+Chocolate roll,95,604,90,Cake Oven
+Canned fish,95,471,220,Preservation Station
+Chickpea,95,18,60,Field (49th crop)
+Hummus,95,277,30,Sauce Maker
+Banana split,96,403,210,Ice Cream Maker
+Fish skewer,96,176,30,BBQ Grill
+Passion fruit jam,96,118,320,Jam Maker
+Potted plant,96,151,220,Pottery Studio
+Mint tea,97,255,35,Tea Stand
+Mushroom pot pie,97,162,60,Pie Oven
+Mango,97,100,1920,Mango tree (50th crop)
+Mango juice,97,230,50,Juice Press
+Flower pendant,98,698,60,Jeweler
+Chili poppers,98,406,40,Deep Fryer
+Falafel,98,226,55,Deep Fryer
+Kimchi,98,219,300,Preservation Station
+Eggplant parmesan,99,442,45,Pie Oven
+Honey face mask,99,320,90,Bath Kiosk
+Clay mug,99,212,200,Pottery Studio
+Rich fudge,99,644,120,Fudge Shop
+Cocoa smoothie,100,511,40,Smoothie Mixer
+Fried candy bar,100,658,15,Deep Fryer
+Tart dressing,100,288,30,Sauce Maker
+Tropical fondue,100,417,35,Fondue Pot
+Mushroom pasta,101,280,75,Pasta Kitchen
+Coconut,101,108,2160,Coconut tree (51st crop)
+Macaroon,101,421,30,Bakery
+Plum smoothie,102,522,35,Smoothie Mixer
+Dried fruit,102,266,180,Preservation Station
+Mint fudge,102,522,150,Fudge Shop
+Coconut ice cream,102,320,15,Ice Cream Maker
+Samosa,103,223,75,Deep Fryer
+Plain yogurt,103,234,120,Yogurt Maker
+Mushroom soup,104,176,80,Soup Kitchen
+Chili fudge,104,540,170,Fudge Shop
+Tropical smoothie,104,475,40,Smoothie Mixer
+Guava,104,111,2040,Guava tree (52nd crop)
+Guava juice,104,252,55,Juice Press
+Guava compote,104,421,260,Preservation Station
+Strawberry yogurt,105,529,40,Yogurt Maker
+Veggie bouquet,106,352,15,Flower Shop
+Chickpea stew,106,284,90,Stew Pot
+Fruit sorbet,106,518,60,Ice Cream Maker
+Pomegranate,107,111,1620,Pomegranate tree (53rd crop)
+Pomegranate tea,107,313,34,Tea Stand
+Lemon fudge,108,590,110,Fudge Shop
+Pomegranate cake,108,316,160,Cake Oven
+Hummus wrap,109,374,30,Sandwich Bar
+Tropical yogurt,109,457,60,Yogurt Maker
+Chili stew,109,370,120,Stew Pot
+Plain cupcake,109,280,40,Cupcake Maker
+Guava cupcake,109,583,70,Cupcake Maker
+Rice ball,110,464,45,Sushi Bar
+Peanut fudge,111,1141,90,Fudge Shop
+Tropical cupcake,112,572,90,Cupcake Maker
+Winter stew,112,295,140,Stew Pot
+Cookie cupcake,114,712,120,Cupcake Maker
+Plain waffles,114,198,25,Waffle Maker
+Berry waffles,114,604,35,Waffle Maker
+Orange salad,117,558,45,Salad Bar
+Chocolate waffles,117,637,40,Waffle Maker
+Breakfast waffles,119,424,45,Waffle Maker
+Oats,119,7,7,Field (54th crop)
+Breakfast bowl,119,604,50,Yogurt Maker
+Apple porridge,119,522,20,Porridge Bar
+Pineapple coconut bars,120,284,40,Bakery
+Sweet porridge,120,466,45,Porridge Bar
+Rich soap,121,266,70,Bath Kiosk
+Fresh porridge,122,435,35,Porridge Bar
+Vanilla milkshake,124,673,45,Milkshake Bar
+Mocha milkshake,125,856,30,Milkshake Bar
+Fruity milkshake,126,759,35,Milkshake Bar

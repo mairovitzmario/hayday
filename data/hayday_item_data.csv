@@ -1,0 +1,682 @@
+Name,Level,Max. price,Time,XP,Needs,Source,Per boat crate
+Wheat,1,3,2 min,1,Wheat (1),Field (1st crop),50-101
+Egg,1,18,20 min,2,Chicken feed (1),Chicken (1st animal product),15-24
+Corn,2,7,5 min,1,Corn (1),Field (2nd crop),50-87
+Bread,2,21,5 min★★★ 4 min,3,Wheat (3),Bakery,14-26
+Chicken feed,3,7,5 min★★★ 4 min,1,"Corn (1)
+Wheat (2)",Feed Mill,N/A
+Soybean,5,10,20 min,2,Soybean (1),Field (3rd crop),24-48
+Cow feed,6,14,10 min★★★ 8 min,2,"Corn (1)
+Soybean (2)",Feed Mill,N/A
+Milk,6,32,1 h,3,Cow feed (1),Cow (2nd animal product),8-16
+Cream,6,50,20 min★★★ 17 min,6,Milk (1),Dairy,8-12
+Sugarcane,7,14,30 min,3,Sugarcane (1),Field (4th crop),14-31
+Corn bread,7,72,30 min★★★ 25 min,8,"Corn (2)
+Egg (2)",Bakery,4-8
+Brown sugar,7,32,20 min★★★ 17 min,4,Sugarcane (1),Sugar Mill,8-13
+Popcorn,8,32,30 min★★★ 25 min,4,Corn (2),Popcorn Pot,10-19
+Carrot,9,7,10 min,2,Carrot (1),Field (5th crop),30-49
+Butter,9,82,30 min★★★ 25 min,10,Milk (2),Dairy,4-7
+Pancake,9,108,30 min★★★ 25 min,13,"Brown sugar (1)
+Egg (3)",BBQ Grill,3-4
+Pig feed,10,14,20 min★★★ 17 min,2,"Carrot (2)
+Soybean (1)",Feed Mill,N/A
+Bacon,10,50,4 h,5,Pig feed (1),Pig (3rd animal product),4-9
+Cookie,10,104,1 h★★★ 51 min,13,"Brown sugar (1)
+Egg (2)Wheat (2)",Bakery,2-5
+Bacon and eggs,11,201,1 h★★★ 51 min,24,"Bacon (2)
+Egg (4)",BBQ Grill,2-4
+Cheese,12,122,1 h★★★ 51 min,15,Milk (3),Dairy,3-5
+Indigo,13,25,2 h,5,Indigo (1),Field (6th crop),8-19
+White sugar,13,50,40 min★★★ 34 min,6,Sugarcane (2),Sugar Mill,4-13
+Carrot pie,14,82,1 h★★★ 51 min,10,Carrot (3)Egg (1)Wheat (2),Pie Oven,4-7
+Pumpkin,15,32,3 h,6,Pumpkin (1),Field (7th crop),9-16
+Pumpkin pie,15,158,2 h★★★ 1 h 42 min,19,"Egg (1)
+Pumpkin (3)Wheat (2)",Pie Oven,3-4
+Apple,15,39,16 h,7,N/A,Apple tree (8th crop),8-14
+Sheep feed,16,14,30 min★★★ 25 min,3,"Soybean (1)
+Wheat (3)",Feed Mill,N/A
+Wool,16,54,6 h,5,Sheep feed (1),Sheep (4th animal product),5-9
+Buttered popcorn,16,126,1 h★★★ 51 min,15,"Butter (1)
+Corn (2)",Popcorn Pot,2-5
+Sweater,17,151,2 h★★★ 1 h 42 min,18,Wool (2),Loom,3-4
+Cotton,18,28,2 h 30 min,6,Cotton (1),Field (9th crop),10-16
+Bacon pie,18,219,3 h★★★ 2 h 33 min,26,"Bacon (3)
+Egg (1)Wheat (2)",Pie Oven,1-3
+Syrup,18,90,1 h 30 min★★★ 1 h 16 min,11,Sugarcane (4),Sugar Mill,2-4
+Cotton fabric,18,108,30 min★★★ 25 min,13,Cotton (3),Loom,3-5
+Hamburger,18,180,2 h★★★ 1 h 42 min,22,"Bacon (2)
+Bread (2)",BBQ Grill,2-3
+Raspberry,19,46,18 h,9,N/A,Raspberry bush (10th crop),6-11
+Raspberry muffin,19,140,45 min★★★ 38 min,17,"Egg (1)
+Raspberry (2)Wheat (2)",Bakery,2-4
+Blue woolly hat,19,111,1 h★★★ 51 min,13,"Indigo (1)
+Wool (1)",Loom,3-5
+Cotton shirt,19,241,45 min★★★ 38 min,29,Cotton fabric (2),Sewing Machine,2-3
+Blue sweater,20,208,3 h★★★ 2 h 33 min,25,"Indigo (2)
+Wool (2)",Loom,2-3
+Carrot cake,21,165,1 h 30 min★★★ 1 h 16 min,20,"Brown sugar (1)
+Butter (1)Carrot (2)",Cake Oven,2-3
+Wooly chaps,21,309,1 h 30 min★★★ 1 h 16 min,37,"Cotton fabric (1)
+Wool (3)",Sewing Machine,1-2
+Cherry,22,68,1 d 3 h,13,N/A,Cherry tree (11th crop),4-7
+Cream cake,23,219,3 h★★★ 2 h 33 min,26,"Cream (1)
+White sugar (1)Wheat (5)",Cake Oven,2-3
+Red berry cake,23,255,1 h★★★ 51 min,31,"Cherry (2)
+Egg (1)Milk (1)Raspberry (1)",Cake Oven,2-3
+Cheesecake,24,284,4 h★★★ 3 h 24 min,34,Cheese (1)Cookie (1),Cake Oven,2
+Silver ore,24,18,Instant,5,Supplies,Mine,N/A
+Gold ore,24,21,Instant,6,Supplies,Mine,N/A
+Platinum ore,24,32,Instant,7,Supplies,Mine,N/A
+Silver bar,24,147,8 h★★★ 6 h 48 min,18,Silver ore (3),Smelter,N/A
+Chili pepper,25,36,4 h,7,Chili pepper (1),Field (12th crop),3-5
+Chili popcorn,25,122,2 h★★★ 1 h 42 min,15,"Chili pepper (2)
+Corn (2)",Popcorn Pot,3-5
+Gold bar,25,180,12 h★★★ 10 h 12 min,21,Gold ore (3),Smelter,N/A
+Platinum bar,25,205,16 h★★★ 13 h 36 min,24,Platinum ore (3),Smelter,N/A
+Violet dress,25,327,2 h 15 min★★★ 1 h 54 min,39,"Cotton fabric (2)
+Indigo (1)Raspberry (1)",Sewing Machine,1-2
+Blackberry,26,82,1 d 8 h,16,N/A,Blackberry bush (13th crop),4-6
+Blackberry muffin,26,226,45 min★★★ 38 min,27,"Blackberry (2)
+Egg (2)Wheat (1)",Bakery,2-3
+Carrot juice,26,46,30 min★★★ 25 min,6,Carrot (3),Juice Press,6-11
+Red lure,27,0,1 h 30 min★★★ 1 h 16 min,1,N/A,Lure Workbench,N/A
+Green lure,27,0,1 h 15 min★★★ 1 h 3 min,2,Green voucher (1),Lure Workbench (2),N/A
+Blue lure,27,0,1 h★★★ 51 min,3,Blue voucher (1),Lure Workbench (3),N/A
+Purple lure,27,0,45 min★★★ 38 min,4,Purple voucher (1),Lure Workbench (4),N/A
+Gold lure,27,0,30 min★★★ 25 min,5,Gold voucher (1),Lure Workbench (5),N/A
+Fish fillet,27,54,Instant or 20 h,4-20,"Lure (1)
+or Fishing net (1)Fishing spot (any available)",Fish (5th animal product),6-9
+Fish burger,27,226,2 h★★★ 1 h 42 min,27,Bread (2)Chili pepper (1)Fish fillet (2),BBQ Grill,2-3
+Apple pie,28,270,2 h 30 min★★★ 2 h 7 min,32,"Apple (3)
+Egg (1)Syrup (1)Wheat (2)",Pie Oven,1-2
+Fish pie,28,226,2 h★★★ 1 h 42 min,27,Egg (1)Fish fillet (3)Wheat (2),Pie Oven,2-3
+Apple juice,28,129,2 h★★★ 1 h 42 min,15,Apple (2),Juice Press,3-7
+Vanilla ice cream,29,172,2 h★★★ 1 h 42 min,20,Cream (1)Milk (1)White sugar (1),Ice Cream Maker,2-3
+Tomato,30,43,6 h,8,Tomato (1),Field (14th crop),6-12
+Roasted tomatoes,30,118,1 h 30 min★★★ 1 h 16 min,14,Tomato (2),BBQ Grill,3-5
+Cherry juice,30,216,2 h 30 min★★★ 2 h 7 min,26,Cherry (2),Juice Press,2-3
+Fishing net,30,0,4 h★★★ 3 h 24 min,7,N/A,Net Maker,N/A
+Mystery net,30,0,3 h★★★ 2 h 33 min,7,Diamond (5),Net Maker,N/A
+Tomato juice,31,162,1 h 30 min★★★ 1 h 16 min,19,Tomato (3),Juice Press,2-4
+Berry juice,31,205,3 h★★★ 2 h 33 min,24,"Blackberry (1)
+Raspberry (1)",Juice Press,2-3
+Goat feed,32,14,40 min★★★ 34 min,3,"Carrot (2)
+Corn (1)Wheat (1)",Feed Mill,N/A
+Goat milk,32,64,8 h,6,Goat Feed (1),Goat (6th animal product),5-8
+Goat cheese,33,162,1 h 30 min★★★ 1 h 16 min,19,Goat milk (2),Dairy,2-5
+Pizza,33,190,15 min★★★ 12 min,23,"Cheese (1)
+Tomato (1)Wheat (2)",Bakery,2-4
+Coal,33,10,Instant,3,Supplies,Mine,N/A
+Refined coal,33,108,6 h★★★ 5 h 6 min,13,Coal (3),Smelter,N/A
+Cherry popsicle,33,352,3 h★★★ 2 h 33 min,42,"Cherry juice (1)
+Syrup (1)",Ice Cream Maker,1-2
+Strawberry,34,50,8 h,10,Strawberry (1),Field (15th crop),3-10
+Feta pie,34,223,1 h 30 min★★★ 1 h 16 min,26,"Egg (1)
+Goat cheese (1)Wheat (2)",Pie Oven,2-3
+Iron ore,34,14,Instant,4,Supplies,Mine,N/A
+Iron bar,34,129,7 h★★★ 5 h 57 min,15,Iron ore (3),Smelter,N/A
+Strawberry ice cream,34,331,4 h★★★ 3 h 24 min,40,"Cream (1)
+Milk (1)Strawberry (3)White sugar (1)",Ice Cream Maker,1-2
+Wheat bundle,34 (Rep. 3),50,1 h 30 min★★★ 1 h 16 min,10,Wheat (75),Feed Mill,N/A
+Meat bucket,34 (Rep. 3),72,45 min★★★ 38 min,15,"Fish Fillet (3)
+Carrot (5)",Feed Mill,N/A
+Potato,35,36,3 h 40 min,7,Potato (1),Field (16th crop),6-14
+Strawberry cake,35,316,3 h★★★ 2 h 33 min,38,"Cream (1)
+Strawberry (2)Wheat (3)White sugar (1)",Cake Oven,1-2
+Baked potato,35,298,35 min★★★ 29 min,36,"Cheese (1)
+Chili pepper (1)Cream (1)Potato (2)",BBQ Grill,1-2
+Apple jam,35,219,6 h★★★ 5 h 6 min,26,Apple (3),Jam Maker,2-4
+Chocolate cake,36,320,2 h★★★ 1 h 42 min,38,"Brown sugar (1)
+Butter (1)Cacao (2)",Cake Oven,1-2
+Casserole,36,367,2 h★★★ 1 h 42 min,44,"Bacon (2)
+Cheese (1)Egg (2)Potato (2)",Pie Oven,1-2
+Cacao,36,86,1 d 10 h,16,N/A,Cacao tree (17th crop),4-6
+Raspberry jam,36,252,7 h★★★ 5 h 57 min,30,Raspberry (3),Jam Maker,1-3
+Spicy pizza,37,226,15 min★★★ 12 min,27,"Cheese (1)
+Chili pepper (1)Tomato (1)Wheat (2)",Bakery,2-3
+Blackberry jam,37,388,8 h★★★ 6 h 48 min,46,Blackberry (3),Jam Maker,1-2
+Potato feta cake,38,309,2 h★★★ 1 h 42 min,37,"Egg (4)
+Goat cheese (1)Potato (1)",Cake Oven,2
+Cherry jam,38,334,7 h★★★ 5 h 57 min,40,Cherry (3),Jam Maker,1-2
+Bracelet,38,514,2 h★★★ 1 h 42 min,61,"Gold bar (1)
+Silver bar (2)",Jeweler,N/A
+Potato bread,39,284,45 min★★★ 38 min,34,"Butter (1)
+Egg (3)Potato (2)White sugar (1)",Bakery,1-2
+Shepherd's pie,39,280,1 h 40 min★★★ 1 h 25 min,34,"Bacon (2)
+Carrot (2)Potato (2)Pumpkin (2)",Pie Oven,2
+Chocolate ice cream,39,342,2 h 30 min★★★ 2 h 7 min,41,"Cream (1)
+Cacao (2)Milk (1)White sugar (1)",Ice Cream Maker,1-2
+Honeycomb,39,68,Instant,8,N/A,Beehive tree (7th animal product),N/A
+Necklace,39,727,3 h★★★ 2 h 33 min,87,"Gold bar (1)
+Platinum bar (1)Silver bar (2)",Jeweler,N/A
+Honey,39,154,20 min★★★ 17 min,19,Honeycomb (2),Honey Extractor,N/A
+Honey popcorn,40,360,1 h 30 min★★★ 1 h 16 min,43,"Corn (2)
+Honey (2)",Popcorn Pot,3-5
+Diamond ring,40,824,4 h★★★ 3 h 24 min,98,"Diamond (1)
+Gold bar (2)Platinum bar (2)",Jeweler,N/A
+Fish and chips,41,244,1 h 30 min★★★ 1 h 16 min,29,"Fish fillet (2)
+Potato (3)",BBQ Grill,2
+Iron bracelet,41,658,1 h 30 min★★★ 1 h 16 min,79,"Iron bar (2)
+Refined coal (2)Silver bar (1)",Jeweler,N/A
+Coffee bean,42,64,1 d 1 h,12,N/A,Coffee bush (18th crop),4-8
+Espresso,42,248,5 min★★★ 4 min,29,"Coffee bean (3)
+White sugar (1)",Coffee Kiosk,2
+Honey apple cake,42,482,3 h 20 min★★★ 2 h 50 min,57,"Apple (2)
+Egg (2)Honey (2)Wheat (2)",Cake Oven,2
+Caffè latte,43,219,10 min★★★ 8 min,26,"Coffee bean (2)
+Milk (1)White sugar (1)",Coffee Kiosk,2
+Chocolate popcorn,44,248,2 h 30 min★★★ 2 h 7 min,29,"Cacao (2)
+Corn (2)",Popcorn Pot,2-4
+Lobster trap,44,0,2 h★★★ 1 h 42 min,5,N/A,Net Maker,N/A
+Lobster tail,44,201,6 h,24,Lobster (8th animal product),Lobster Pool,2-4
+Frutti di Mare pizza,45,403,15 min★★★ 12 min,48,"Cheese (1)
+Fish fillet (1)Lobster tail (1)Wheat (2)",Bakery,1-2
+Caffè mocha,45,291,15 min★★★ 12 min,35,"Coffee bean (1)
+Cream (1)Cacao (2)",Coffee Kiosk,1-2
+Raspberry mocha,46,259,30 min★★★ 25 min,31,"Cacao (1)
+Coffee bean (1)Cream (1)Raspberry (1)",Coffee Kiosk,1-2
+Lobster soup,46,612,2 h 30 min★★★ 2 h 7 min,73,"Chili pepper (2)
+Cream (1)Lobster tail (2)Tomato (1)",Soup Kitchen,1-2
+Hot chocolate,47,316,25 min★★★ 21 min,38,"Cacao (2)
+Cream (1)Milk (1)White sugar (1)",Coffee Kiosk,2
+Tomato soup,47,478,1 h 30 min★★★ 1 h 16 min,57,"Chili pepper (1)
+Goat cheese (1)Tomato juice (1)Tomato (2)",Soup Kitchen,1-2
+Red scarf,48,288,2 h 30 min★★★ 2 h 7 min,34,"Strawberry (2)
+Wool (2)",Loom,1-2
+Lobster skewer,48,417,40 min★★★ 34 min,50,"Chili pepper (1)
+Honey (1)Lobster tail (1)",BBQ Grill,2
+Beeswax,48,234,45 min★★★ 38 min,28,Honeycomb (3),Honey Extractor,N/A
+Strawberry candle,48,370,2 h★★★ 1 h 42 min,44,"Beeswax (1)
+Strawberry (2)",Candle Maker,2-3
+Rustic bouquet,49,208,45 min★★★ 38 min,25,"Wheat (5)
+Indigo (3)Cotton (3)",Flower Shop,1-2
+Pumpkin soup,49,392,2 h★★★ 1 h 42 min,47,"Butter (1)
+Carrot (2)Honey (1)Pumpkin (3)",Soup Kitchen,2
+Asparagus,49,43,6 h,8,Asparagus (1),Field (19th crop),6-12
+Asparagus quiche,49,302,2 h★★★ 1 h 42 min,36,"Asparagus (2)
+Egg (2)Cheese (1)Wheat (4)",Pie Oven,2-3
+Strawberry jam,50,270,7 h 30 min★★★ 6 h 22 min,32,Strawberry (3),Jam Maker,2-3
+Duck trap,50,0,1 h★★★ 51 min,3,N/A,Net Maker,N/A
+Duck feather,50,140,3 h,17,Duck (9th animal product),Duck Salon,3-6
+Sesame,50,18,1 h,4,Sesame (1),Field (20th crop),16-25
+Sesame ice cream,50,176,2 h★★★ 1 h 42 min,21,Cream (1)Sesame (3)Brown sugar (1),Ice Cream Maker,2-5
+Caramel apple,51,255,2 h★★★ 1 h 42 min,31,"Apple (1)
+Syrup (2)",Candy Machine,N/A
+Pillow,51,676,3 h★★★ 2 h 33 min,81,"Cotton fabric (2)
+Duck feather (3)",Sewing Machine,1
+Asparagus soup,51,255,1 h★★★ 51 min,30,"Asparagus (3)
+Cream (2)",Soup Kitchen,1-3
+Toffee,52,176,1 h 30 min★★★ 1 h 16 min,21,"Butter (1)
+Wheat (1)White sugar (1)",Candy Machine,N/A
+Raspberry candle,52,360,1 h 45 min★★★ 1 h 29 min,43,"Beeswax (1)
+Raspberry (2)",Candle Maker,2-3
+Pineapple,52,14,30 min,3,Pineapple (1),Field (21st crop),20-31
+Pineapple juice,52,68,45 min★★★ 38 min,8,Pineapple (3),Juice Press,5-8
+Fish soup,53,298,3 h★★★ 2 h 33 min,35,"Carrot (1)
+Fish fillet (2)Milk (1)Potato (3)",Soup Kitchen,1-2
+Lily,53,21,1 h 30 min,5,Lily (1),Field (22nd crop),12-20
+Soy sauce,54,154,3 h★★★ 2 h 33 min,19,"Soybean (9)
+Wheat (1)",Sauce Maker,2-4
+Chocolate,54,460,20 h★★★ 17 h,55,"Cacao (3)
+Cream (1)White sugar (1)",Candy Machine,N/A
+Fancy cake,54,450,15 min★★★ 12 min,49,"Cream cake (1)
+Lily (3)Raspberry (3)Gold ore (1)",Cake Oven,2
+Rice,56,18,45 min,3,Rice (1),Field (23rd crop),19-32
+Sushi roll,56,489,1 h★★★ 51 min,58,"Fish fillet (1)
+Rice (15)Soy sauce (1)",Sushi Bar,1-2
+Olive,57,82,1 d,17,N/A,Olive tree (24th crop),4-6
+Lollipop,57,342,12 h★★★ 10 h 12 min,41,"Cherry (1)
+Strawberry (2)Syrup (1)",Candy Machine,N/A
+Lettuce,58,32,3 h 30 min,7,Lettuce (1),Field (25th crop),9-14
+Feta salad,58,745,1 h 30 min★★★ 1 h 16 min,89,"Goat cheese (2)
+Lettuce (3)Olive (2)Roasted tomatoes (1)",Salad Bar,1
+Lobster sushi,59,637,1 h★★★ 51 min,76,"Lobster tail (1)
+Rice (15)Soy sauce (1)",Sushi Bar,1
+Blanket,59,1098,3 h 30 min★★★ 2 h 58 min,131,"Cotton fabric (3)
+Duck feather (5)Pumpkin (1)",Sewing Machine,1
+Jelly beans,60,684,1 d★★★ 20 h 24 min,81,"Blackberry jam (1)
+Raspberry jam (1)White sugar (1)",Candy Machine,N/A
+Olive oil,60,277,45 min★★★ 38 min,33,Olive (3),Sauce Maker,1-2
+Garlic,60,14,30 min,3,Garlic (1),Field (26th crop),20-32
+Garlic bread,60,198,15 min★★★ 12 min,24,"Bread (2)
+Butter (1)Garlic (4)",BBQ Grill,2-3
+Veggie bagel,61,532,40 min★★★ 34 min,63,"Bread (2)
+Lettuce (3)Olive oil (1)Tomato (2)",Sandwich Bar,1
+Mayonnaise,62,367,15 min★★★ 12 min,44,"Egg (4)
+Olive oil (1)",Sauce Maker,1-2
+BLT salad,62,723,1 h 45 min★★★ 1 h 29 min,86,"Bacon (2)
+Lettuce (3)Mayonnaise (1)Roasted tomatoes (1)",Salad Bar,1-3
+Caramel latte,62,345,15 min★★★ 12 min,41,"Coffee bean (2)
+Toffee (1)Milk (1)",Coffee Kiosk,2
+Peanuts,62,234,Instant,43,N/A,Squirrel House (10th animal product),N/A
+Sunflower,63,21,1 h 30 min,5,Sunflower (1),Field (27th crop),12-19
+Egg sushi,63,550,2 h★★★ 1 h 42 min,66,"Brown sugar (1)
+Egg (4)Rice (15)Soy sauce (1)",Sushi Bar,1
+Honey peanuts,63,468,40 min★★★ 34 min,64,"Honey (1)
+Peanuts (1)",Candy Machine,N/A
+Seafood salad,64,763,2 h★★★ 1 h 42 min,91,"Fish fillet (1)
+Lettuce (3)Lobster tail (1)Mayonnaise (1)",Salad Bar,1
+Berry smoothie,64,547,1 h 15 min★★★ 1 h 3 min,65,"Blackberry (3)
+Strawberry (3)Raspberry (3)",Smoothie Mixer,1
+Snack mix,64,309,45 min★★★ 38 min,50,"Corn (2)
+Sesame (1)Peanuts (1)",Popcorn Pot,4-7
+Bright bouquet,65,338,20 min★★★ 17 min,40,"Sunflower (5)
+Indigo (3)Cotton (1)Iron ore (5)",Flower Shop,1-2
+Bacon toast,65,648,1 h 40 min★★★ 1 h 25 min,77,"Bacon (2)
+Bread (2)Lettuce (3)Mayonnaise (1)",Sandwich Bar,1
+Pineapple cake,65,259,1 h 15 min★★★ 1 h 3 min,31,"Pineapple (3)
+Egg (2)Cherry (2)Wheat (4)",Cake Oven,2
+Chocolate pie,65,514,1 h 15 min★★★ 1 h 3 min,70,"Wheat (3)
+Cacao (3)Egg (1)Peanuts (1)",Pie Oven,2
+Cabbage,65,18,45 min,3,Cabbage (1),Field (28th crop),12-31
+Cabbage soup,65,270,1 h 30 min★★★ 1 h 16 min,32,"Cabbage (3)
+Bacon (2)Potato (2)Carrot (2)",Soup Kitchen,2
+Lemon,66,93,1 d 5 h,18,N/A,Lemon tree (29th crop),4-6
+Lemon curd,66,378,25 min★★★ 21 min,45,"Butter (1)
+Egg (2)Lemon (2)White sugar (1)",Sauce Maker,1-2
+Olive dip,66,468,45 min★★★ 38 min,56,"Olive (3)
+Bread (2)Lemon (1)Fish fillet (1)",Sauce Maker,2
+Egg sandwich,66,583,1 h 20 min★★★ 1 h 8 min,69,"Bread (2)
+Egg (2)Lettuce (3)Mayonnaise (1)",Sandwich Bar,1
+Green smoothie,66,320,45 min★★★ 38 min,38,"Apple (1)
+Lemon (1)Lettuce (5)",Smoothie Mixer,1-2
+Fresh pasta,67,43,15 min★★★ 12 min,5,"Egg (1)
+Wheat (2)",Pasta Maker,8-12
+Pasta salad,67,759,2 h 30 min★★★ 2 h 7 min,90,"Fresh pasta (4)
+Lemon (2)Olive oil (1) Tomato (2)",Salad Bar,1
+Lemon pie,67,446,2 h 15 min★★★ 1 h 54 min,53,"Egg (1)
+Lemon curd (1)Wheat (2)",Pie Oven,1-2
+Grilled asparagus,67,486,1 h 15 min★★★ 1 h 3 min,58,"Asparagus (5)
+Bacon (3)Lemon (1)",BBQ Grill,1
+Onion,68,39,5 h,8,Onion (1),Field (30th crop),8-9
+Grilled onion,68,190,1 h★★★ 51 min,23,"Butter (1)
+Onion (2)",BBQ Grill,3
+Lemon cake,68,896,2 h 30 min★★★ 2 h 7 min,107,"Cream (1)
+Egg (2)Lemon curd (2)Wheat (3)",Cake Oven,1
+Lemon essential oil,68,288,"10 min
+★★★ 8 min",34,Lemon (3),Essential Oils Lab,1-???
+Peanut butter milkshake,68,619,1 h 40 min★★★ 1 h 25 min,86,"Peanuts (1)
+Milk (1)Cream (1)Cacao (3)",Ice Cream Maker,1-2
+Tomato sauce,69,230,30 min★★★ 25 min,27,"Brown sugar (1)
+Lemon (1)Tomato (2)",Sauce Maker,2
+Honey toast,69,255,1 h★★★ 51 min,31,"Bread (1)
+Egg (1)Honey (1)Milk (1)",Sandwich Bar,3-4
+Fried rice,69,205,1 h★★★ 51 min,24,"Rice (5)
+Egg (5)",Wok Kitchen,2-3
+Yogurt smoothie,70,349,1 h★★★ 51 min,42,"Cherry (1)
+Cream (1)Raspberry (2)White sugar (1)",Smoothie Mixer,1-2
+Cloche hat,70,468,2 h★★★ 1 h 42 min,56,"Strawberry (2)
+Wool (6)",Hat Maker,1-4
+Cucumber,70,14,35 min,3,Cucumber (1),Field (31st crop),21-31
+Cucumber smoothie,70,266,40 min★★★ 34 min,32,"Cucumber (3)
+Honey (1)Pineapple (3)",Smoothie Mixer,2-4
+Orange,71,97,1 d 7 h,19,N/A,Orange tree (32nd crop),4-6
+Flower shawl,71,295,1 h 30 min★★★ 1 h 16 min,35,"Wool (2)
+Sunflower (3)Blackberry (1)",Loom,2
+Orange juice,71,234,2 h★★★ 1 h 42 min,28,Orange (2),Juice Press,2-3
+Peanut butter and jelly sandwich,71,601,25 min★★★ 21 min,80,Bread (2)Raspberry jam (1)Peanuts (1),Sandwich Bar,1-2
+Onion soup,72,327,2 h 30 min★★★ 2 h 7 min,39,"Bread (2)
+Cheese (1)Onion (3)",Soup Kitchen,1-2
+Lemon candle,72,457,2 h 15 min★★★ 1 h 54 min,55,"Beeswax (1)
+Lemon (2)",Candle Maker,2
+Top hat,72,619,3 h 30 min★★★ 2 h 58 min,74,"Cotton fabric (3)
+Duck feather (1)Refined coal (1)",Hat Maker,1-2
+Gnocchi,72,475,1 h 20 min★★★ 1 h 8 min,57,"Potato (4)
+Tomato (3)Wheat (2)Butter (2)",Pasta Kitchen,1-2
+Beetroot,72,14,40 min,3,Beetroot (1),Field (33rd crop),20-31
+Winter veggies,72,198,25 min★★★ 21 min,24,"Beetroot (2)
+Carrot (3)Potato (2)Pumpkin (2)",BBQ Grill,2-4
+Rice noodles,73,100,20 min★★★ 17 min,12,Rice (5),Pasta Maker,4-6
+Noodle soup,73,432,2 h★★★ 1 h 42 min,52,Carrot (2)Chili pepper (1)Egg (2)Rice noodles (3),Soup Kitchen,1-2
+Gracious bouquet,73,500,40 min★★★ 34 min,60,"Cotton fabric (1)
+Lily (5)Gold ore (1)Diamond (1)",Flower Shop,1-2
+Bell pepper,74,36,4 h 30 min,7,Bell pepper (1),Field (34th crop),9-14
+Marmalade,74,457,8 h 30 min★★★ 7 h 13 min,54,Orange (3),Jam Maker,1-2
+Sun hat,74,558,2 h 30 min★★★ 2 h 7 min,66,"Duck feather (2)
+Indigo (1)Raspberry (1)Wool (3)",Hat Maker,1-2
+Veggie lasagna,74,532,1 h 40 min★★★ 1 h 25 min,63,"Tomato sauce (1)
+Fresh pasta (3)Carrot (1)Cheese (1)",Pasta Kitchen,1
+Veggie platter,74,266,2 h★★★ 1 h 42 min,32,"Bell pepper (2)
+Carrot (2)Tomato (2)Cream (1)",Salad Bar,2
+Hot dog,75,370,30 min★★★ 25 min,44,"Bacon (2)
+Bread (1)Tomato sauce (1)",Hot Dog Stand,1-2
+Coleslaw,75,468,1 h 15 min★★★ 1 h 3 min,56,"Cabbage (3)
+Carrot (2)Mayonnaise (1)",Salad Bar,1
+Cotton Candy,75,226,30 min★★★ 25 min,27,White sugar (3)Strawberry (1),Candy Machine,N/A
+Peach,76,100,1 d 6 h,20,N/A,Peach tree (35th crop),4-6
+Peach tart,76,435,2 h 30 min★★★ 2 h 7 min,52,"Cream (1)
+Egg (2)Peach (3)Wheat (2)",Pie Oven,1-2
+Tofu dog,76,367,45 min★★★ 38 min,44,"Lettuce (3)
+Soybean (6)Tomato (4)",Hot Dog Stand,1-2
+Big sushi roll,76,648,1 h 30 min★★★ 1 h 16 min,77,"Lettuce (5)
+Rice (20)Fish fillet (1)Egg (3)",Sushi Bar,1
+Beetroot salad,76,234,45 min★★★ 38 min,28,Beetroot (3)Goat Cheese (1),Salad Bar,2-3
+Plain Donut,76,129,15 min★★★ 12 min,15,Milk (1)White sugar (1)Egg (1)Wheat (3),Donut Maker,3-4
+Salsa,77,252,20 min★★★ 17 min,30,"Chili pepper (2)
+Onion (2)Tomato (2)",Sauce Maker,2-3
+Taco,77,396,45 min★★★ 38 min,47,"Corn bread (1)
+Bacon (1)Salsa (1)",Taco Kitchen,1-2
+Colourful omelet,77,136,1 h★★★ 51 min,16,"Egg (2)
+Carrot (2)Bell pepper (1)Cabbage (1)",Omelet Station,2-4
+Spring omelet,77,230,40 min★★★ 34 min,27,"Egg (2)
+Asparagus (2)Butter (1)",Omelet Station,2-3
+Summer rolls,78,316,1 h★★★ 51 min,38,"Rice noodles (2)
+Carrot (2)Lettuce (1)Chili pepper (1)",Salad Bar,2
+Orange sorbet,78,399,3 h 30 min★★★ 2 h 58 min,48,"Honey (1)
+Orange (2)",Ice Cream Maker,2
+Corn dog,78,529,1 h★★★ 51 min,63,"Bacon (4)
+Corn (4)Olive oil (1)",Hot Dog Stand,1
+Potato soup,78,255,2 h 30 min★★★ 2 h 7 min,31,"Milk (1)
+Onion (2)Potato (3)",Soup Kitchen,2
+Ginger​​​​,78,28,2 h 30 min,6,Ginger (1),Field (36th crop),11-16
+Sesame brittle,78,270,1 h★★★ 51 min,32,"Sesame (3)
+Ginger (1)Honey (1)",Candy Machine,N/A
+Affogato​​​​,78,435,20 min★★★ 17 min,56,"Vanilla ice cream (1)
+Espresso (1)",Ice Cream Maker,1
+Fish taco,79,392,1 h 30 min★★★ 1 h 16 min,47,"Chili pepper (2)
+Corn bread (2)Fish fillet (1)Lemon (1)",Taco Kitchen,1-2
+Peach jam,79,464,8 h★★★ 6 h 48 min,55,Peach (3),Jam Maker,2-3
+Lobster pasta,79,637,2 h★★★ 1 h 42 min,76,"Lobster tail (1)
+Cream (2)Fresh pasta (3)Tomato (4)",Pasta Kitchen,1
+Cucumber sandwich,79,464,35 min★★★ 29 min,55,"Cucumber (2)
+Mayonnaise (1)Bread (2)",Sandwich Bar,1-2
+Spicy fish,79,543,1 h 30 min★★★ 1 h 16 min,65,"Fish fillet (1)
+Chili pepper (3)Garlic (5)Olive oil (1)",Wok Kitchen,1-2
+Sprinkled Donut,79,313,20 min★★★ 17 min,37,Plain Donut (1)Cacao (2),Donut Maker,2
+Cheese omelet,79,464,1 h 30 min★★★ 1 h 16 min,55,"Egg (3)
+Cheese (2)Tomato (2)Onion (1)",Omelet Station,1
+Tea leaf,80,43,6 h 30 min,9,Tea leaf (1),Field (37th crop),7-11
+Green tea,80,241,30 min★★★ 25 min,29,Tea leaf (5),Tea Stand,2
+Onion dog,80,306,1 h 15 min★★★ 1 h 3 min,36,"Bacon (2)
+Bread (1)Chili pepper (1)Onion (3)",Hot Dog Stand,2
+Stuffed peppers,80,352,20 min★★★ 17 min,42,"Bell pepper (3)
+Bacon (1)Rice (3)Cheese (1)",BBQ Grill,2
+Ginger essential oil,80,162,20 min★★★ 17 min,19,Ginger (5),Essential Oils Lab,1-3
+Milk tea,81,190,45 min★★★ 38 min,23,"Milk (1)
+Tea leaf (3)",Tea Stand,2-3
+Bell pepper soup,81,439,1 h★★★ 51 min,52,"Bread (1)
+Olive oil (1)Chili pepper (1)Bell pepper (2)",Soup Kitchen,1-2
+Chocolate fondue,81,626,25 min★★★ 21 min,74,"Chocolate (1)
+Strawberry (3)",Fondue Pot,1
+Peony,82,36,4 h,7,Peony (1),Field (38th crop),9-14
+Quesadilla,82,241,1 h★★★ 51 min,29,"Cheese (1)
+Chili pepper (2)Wheat (4)",Taco Kitchen,2-3
+Fruit salad,82,597,2 h★★★ 1 h 42 min,71,"Blackberry (2)
+Honey (1)Orange (1)Strawberry (3)",Salad Bar,1
+Crunchy Donut,82,594,30 min★★★ 25 min,71,Plain donut (1)Cacao (1)Peanuts (1),Donut Maker,2
+Pasta carbonara,83,410,2 h 30 min★★★ 2 h 7 min,49,"Fresh pasta (3)
+Bacon (2)Egg (1)Cheese (1)",Pasta Kitchen,1
+Peach ice cream,83,450,3 h★★★ 2 h 33 min,54,"Cream (1)
+Honey (1)Peach (2)",Ice Cream Maker,2
+Honey tea,83,313,40 min★★★ 34 min,37,"Honey (1)
+Tea leaf (3)",Tea Stand,2-3
+Broccoli,83,21,1 h 30 min,4,Broccoli (1),Field (39th crop),15-24
+Broccoli pasta,83,345,1 h★★★ 51 min,41,"Broccoli (3)
+Cheese (1)Fresh pasta (3)",Pasta Kitchen,2
+Rice omelet,83,572,2 h★★★ 1 h 42 min,68,"Egg(3)
+Tomato Sauce(2)
+Rice(1)",Omelet Station,1
+Summer salad,84,554,3 h★★★ 2 h 33 min,66,"Goat cheese (1)
+Onion (3)Peach (1)Tomato (3)",Salad Bar,1
+Grapes,84,32,3 h,6,Grapes (1),Field (40th crop),11-15
+Grape juice,84,104,2 h 30 min★★★ 2 h 7 min,13,Grapes (2),Juice Press,2-6
+Onion melt,84,417,1 h 30 min★★★ 1 h 16 min,50,"Corn bread (2)
+Onion (3)Cheese (1)",Sandwich Bar,1-2
+Honey soap,84,327,1 h★★★ 51 min,39,"Goat milk (1)
+Cacao (2)Honeycomb (1)",Bath Kiosk,2
+Lemon lotion,84,403,1 h 15 min★★★ 1 h 3 min,48,"Olive oil (1)
+Lemon (1)",Bath Kiosk,1-2
+Colorful Candles,84,324,1 h 50 min★★★ 1 h 33 min,39,Beeswax (1)Raspberry (1)Carrot (1),Candle Maker,3-4
+Mint,85,32,3 h,6,Mint (1),Field (41st crop),11-16
+Mint essential oil,85,172,"15 min
+★★★ 12 min",21,Mint (3),Essential Oils Lab,3
+Grape jam,85,162,6 h 30 min★★★ 5 h 31 min,19,Grapes (3),Jam Maker,3-4
+Mint ice cream,85,288,2 h 15 min★★★ 1 h 54 min,34,"Cream (1)
+White sugar (1)Mint (2)Cacao (1)",Ice Cream Maker,2
+Flower crown,86,331,2 h★★★ 1 h 42 min,40,"Peony (5)
+Cotton (4)",Hat Maker,1-2
+Lemon tea,86,241,20 min★★★ 17 min,29,"Lemon (1)
+Tea leaf (3)",Tea Stand,2
+Bacon fondue,86,507,30 min★★★ 25 min,60,"Bacon (3)
+Broccoli (1)Bell pepper (1)Olive oil (1)",Fondue Pot,1-2
+Peanut noodles,86,597,45 min★★★ 38 min,80,"Ginger (1)
+Rice noodles (1)Soy sauce (1)Peanuts (1)",Wok Kitchen,2
+Gingerbread cookie,86,273,30 min★★★ 25 min,33,"Wheat (5)
+Butter (1)Syrup (1)Ginger (2)",Bakery,2
+Cream Donut,86,230,25 min★★★ 21 min,27,Plain donut (1)Cream (1)Brown sugar (1),Donut Maker,3
+Nachos,87,432,1 h 15 min★★★ 1 h 3 min,52,"Cheese (1)
+Corn (4)Salsa (1)",Taco Kitchen,1-3
+Spicy pasta,87,576,1 h 30 min★★★ 1 h 16 min,69,"Fresh pasta (3)
+Tomato sauce (1)Chili pepper (3)Onion (2)",Pasta Kitchen,1
+Broccoli soup,87,237,1 h 15 min★★★ 1 h 3 min,28,"Broccoli (3)
+Onion (1)Potato (3)",Soup Kitchen,2-3
+Bacon fries,87,302,25 min★★★ 21 min,36,"Chili pepper (1)
+Bacon (2)Potato (4)Garlic (1)",Deep Fryer,2
+Potato Omelet,87,270,1 h 15 min★★★ 1 h 3 min,32,"Egg(3)
+Bacon(3)
+Potato(1)",Omelet Station,2
+Mixed smoothie,88,504,30 min★★★ 25 min,60,"Lemon (1)
+Orange (2)Peach (2)",Smoothie Mixer,1-2
+Banana,88,104,1 d 3 h,20,N/A,Banana tree  (42nd crop),4-6
+Iced banana latte,88,277,20 min★★★ 17 min,33,"Banana (1)
+Coffee bean (2)Milk (1)",Coffee Kiosk,2
+Apple ginger tea,88,169,30 min★★★ 25 min,20,"Ginger (1)
+Apple (2)Tea leaf (1)",Tea Stand,4
+Bacon Donut,88,388,30 min★★★ 25 min,46,Plain donut (1)Bacon (3)Syrup (1),Donut Maker,1-2
+Passion fruit,88,18,1 h,4,Passion fruit (1),Field (43rd crop),16-24
+Passion fruit juice,88,64,45 min★★★ 38 min,8,Passion fruit (2),Juice Press,6-9
+Orange tea,89,255,40 min★★★ 34 min,30,"Orange (1)
+Tea leaf (3)",Tea Stand,2
+Fruit cake,89,450,3 h★★★ 2 h 33 min,54,"Cherry (2)
+Grapes (2)Orange (2)Wheat (3)",Cake Oven,1-2
+Mushroom,89,10,20 min,2,Mushroom (1),Field (44th crop),33-50
+Mushroom salad,89,216,1 h★★★ 51 min,26,"Mushroom (3)
+Lettuce (1)Potato (2)Bacon (1)",Salad Bar,2-3
+Tofu stir fry,89,306,1 h 15 min★★★ 1 h 3 min,37,"Soybean (3)
+Onion (3)Broccoli (3)Sesame (3)",Wok Kitchen,2
+Candy bouquet,90,554,20 min★★★ 17 min,66,"Peony (3)
+Toffee (1)Caramel apple (1)",Flower Shop,2
+Eggplant,90,14,40 min,3,Eggplant (1),Field (45th crop),22-32
+Grilled eggplant,90,324,40 min★★★ 34 min,39,"Eggplant (3)
+Salsa (1)",BBQ Grill,2
+Banana bread,91,424,30 min★★★ 25 min,50,"Banana (3)
+Egg (1)Grapes (2)Wheat (3)",Bakery,2
+Cheese fondue,91,493,20 min★★★ 17 min,59,"Potato bread (1)
+Cheese (1)Mushroom (2)Tomato (1)",Fondue Pot,2
+Hand pies,91,295,20 min★★★ 17 min,35,"Apple jam (1)
+Egg (2)Wheat (5)",Deep Fryer,2-3
+Pickles,91,270,4 h★★★ 3 h 24 min,32,"Cucumber (3)
+Onion (2)Lemon (1)",Preservation Station,1-2
+Watermelon,92,39,5 h,8,Watermelon (1),Field (46th crop),8-12
+Iced tea,92,252,30 min★★★ 25 min,30,"Peach (1)
+Tea leaf (3)",Tea Stand,2
+Goat cheese toast,92,302,50 min★★★ 42 min,36,"Bread (1)
+Goat cheese (1)Grapes (3)",Sandwich Bar,2
+Watermelon juice,92,108,1 h★★★ 51 min,13,Watermelon (2),Juice Press,3-5
+Birthday Bouquet,92,349,20 min★★★ 17 min,42,Cherry Juice (1)Peony (3)Lily (1)Indigo (1),Flower Shop,1-2
+Passion fruit pie,92,111,50 min★★★ 42 min,13,"Passion fruit (3)
+Wheat (2)Egg (1)",Pie Oven,4-5
+Soft bouquet,93,298,30 min★★★ 25 min,36,"Peony (4)
+Cotton (1)Cotton fabric (1)",Flower Shop,1-2
+Black sesame smoothie,93,313,45 min★★★ 38 min,37,"Sesame (3)
+Banana (1)Goat milk (2)",Smoothie Mixer,2
+Exfoliating soap,93,363,1 h★★★ 51 min,43,"Cacao (2)
+Coffee bean (2)Raspberry (1)",Bath Kiosk,1-2
+Filled Donut,93,403,35 min★★★ 29 min,48,Plain donut (1)Raspberry jam (1),Donut Maker,1-2
+Plum,94,82,1 d,16,N/A,Plum tree (47th crop),4-6
+Banana pancakes,94,352,1 h★★★ 51 min,42,"Banana (1)
+Blackberry (2)Cream (1)Wheat (3)",BBQ Grill,1-2
+Plum jam,94,385,5 h★★★ 4 h 15 min,46,Plum (3),Jam Maker,2
+Clay,94,18,1 h 50 min,5,Clay (1),Field (48th crop),12-19
+Tea pot,94,219,3 h 40 min★★★ 3 h 7 min,26,"Clay (3)
+Coffee bean (1)Gold ore (1)",Pottery Studio,2-3
+Floral candle,95,442,2 h★★★ 1 h 42 min,53,"Beeswax (1)
+Peony (2)Sunflower (2)Indigo (3)",Candle Maker,2
+Chocolate roll,95,604,1 h 30 min★★★ 1 h 16 min,72,"Cacao (5)
+Cream (1)Wheat (3)Mint (3)",Cake Oven,2
+Canned fish,95,471,3 h 40 min★★★ 3 h 7 min,56,"Fish fillet (2)
+Chili pepper (1)Olive oil (1)",Preservation Station,1
+Chickpea,95,18,1 h,4,Chickpea (1),Field (49th crop),15-24
+Hummus,95,277,30 min★★★ 25 min,33,"Chickpea (3)
+Lemon (2)Garlic (1)",Sauce Maker,2
+Banana split,96,403,3 h 30 min★★★ 2 h 58 min,48,"Banana (1)
+Cherry (3)Cream (1)",Ice Cream Maker,1-2
+Fish skewer,96,176,30 min★★★ 25 min,21,"Fish fillet (1)
+Mushroom (3)Ginger (1)Sesame (2)",BBQ Grill,2-8
+Passion fruit jam,96,118,5 h 20 min★★★ 4 h 32 min,14,Passion fruit (3),Jam Maker,3-5
+Potted plant,96,151,3 h 40 min★★★ 3 h 7 min,26,"Clay (3)
+Sunflower (1)",Pottery Studio,3-4
+Mint tea,97,255,35 min★★★ 29 min,31,"Tea leaf (3)
+Mint (1)Watermelon (1)",Tea Stand,2-3
+Mushroom pot pie,97,162,1 h★★★ 51 min,19,"Mushroom (3)
+Cabbage (3)Wheat (3)Egg (2)",Pie Oven,1-3
+Mango,97,100,1 d 8 h,20,N/A,Mango tree (50th crop),4-6
+Mango juice,97,230,50 min★★★ 42 min,27,Mango (2),Juice Press,2-3
+Flower pendant,98,698,1 h★★★ 51 min,83,"Peony (3)
+Platinum bar (1)Gold bar (2)",Jeweler,N/A
+Chili poppers,98,406,40 min★★★ 34 min,48,"Chili pepper (3)
+Wheat (1)Bacon (3)Cheese (1)",Deep Fryer,1-2
+Falafel,98,226,55 min★★★ 46 min,27,"Chili pepper (1)
+Chickpea (3)Onion (2)Garlic (2)",Deep Fryer,2
+Kimchi,98,219,5 h★★★ 4 h 15 min,26,"Cabbage (5)
+Ginger (1)Chili pepper (1)Garlic (1)",Preservation Station,??
+Eggplant parmesan,99,442,45 min★★★ 38 min,53,"Eggplant (3)
+Cheese (1)Tomato sauce (1)",Pie Oven,1-2
+Honey face mask,99,320,1 h 30 min★★★ 1 h 16 min,38,"Egg (2)
+Honey (1)Lemon (1)",Bath Kiosk,2-3
+Clay mug,99,212,3 h 20 min★★★ 2 h 50 min,25,"Clay (3)
+Indigo (2)Peony (1)",Pottery Studio,2-3
+Rich fudge,99,644,2 h★★★ 1 h 42 min,77,"Cacao (3)
+Butter (3)White sugar (2)",Fudge Shop,1
+Cocoa smoothie,100,511,40 min★★★ 34 min,61,"Banana (2)
+Cacao (3)Milk (1)",Smoothie Mixer,1
+Fried candy bar,100,658,15 min★★★ 12 min,87,"Cacao (3)
+Cookie (1)Peanuts (1)",Deep Fryer,1-2
+Tart dressing,100,288,30 min★★★ 25 min,34,"Passion fruit (2)
+Chili pepper (2)Honey (1)",Sauce Maker,2-4
+Tropical fondue,100,417,35 min★★★ 29 min,50,"White sugar (1)
+Cream (2)Pineapple (3)Mango (2)",Fondue Pot,1-2
+Mushroom pasta,101,280,1 h 15 min★★★ 1 h 3 min,33,"Mushroom (5)
+Fresh pasta (3)Goat milk (1)",Pasta Kitchen,2-3
+Coconut,101,108,1 d 12 h,21,N/A,Coconut tree (51st crop),4-5
+Macaroon,101,421,30 min★★★ 25 min,50,"Cacao (1)
+Coconut (2)White sugar (2)",Bakery,2
+Plum smoothie,102,522,35 min★★★ 29 min,62,"Plum (3)
+Grapes (1)Mint (1)Honey (1)",Smoothie Mixer,1-2
+Dried fruit,102,266,3 h★★★ 2 h 33 min,32,"Grapes (1)
+Raspberry (1)Strawberry (1)Orange (1)",Preservation Station,2
+Mint fudge,102,522,2 h 30 min★★★ 2 h 7 min,62,"Butter (2)
+Cacao (2)White sugar (1)Mint (3)",Fudge Shop,1
+Coconut ice cream,102,320,15 min★★★ 12 min,38,"Coconut (2)
+Syrup (1)",Ice Cream Maker,1-2
+Samosa,103,223,1 h 15 min★★★ 1 h 3 min,27,"Chickpea (2)
+Wheat (4)Chili Pepper (1)Potato (3)",Deep Fryer,2
+Plain yogurt,103,234,2 h★★★ 1 h 42 min,28,"Milk (3)
+Cream (2)",Yogurt Maker,2-3
+Mushroom soup,104,176,1 h 20 min★★★ 1 h 8 min,21,"Mushroom (3)
+Milk (1)Onion (2)",Soup Kitchen,2-4
+Chili fudge,104,540,2 h 50 min★★★ 2 h 25 min,64,"Butter (2)
+Cacao (2)White sugar (1)Chili pepper (3)",Fudge Shop,1
+Tropical smoothie,104,475,40 min★★★ 34 min,57,"Coconut (1)
+Banana (1)Passion fruit (2)Mango (2)",Smoothie Mixer,1-2
+Guava,104,111,1 d 10 h,22,N/A,Guava tree (52nd crop),3-4
+Guava juice,104,252,55 min★★★ 46 min,30,Guava (2),Juice Press,2-3
+Guava compote,104,421,4 h 20 min★★★ 3 h 41 min,50,"Guava (2)
+Lemon (1)
+White sugar (1)",Preservation Station,1-2
+Strawberry yogurt,105,529,40 min★★★ 34 min,63,"Plain yogurt (1)
+Strawberry jam (1)",Yogurt Maker,1-2
+Veggie bouquet,106,352,15 min★★★ 12 min,42,"Broccoli (3)
+Tomato (3)Mushroom (3)Cotton fabric (1)",Flower Shop,2
+Chickpea stew,106,284,1 h 30 min★★★ 1 h 16 min,34,"Coconut (1)
+Tomato (2)Chickpea (3)",Stew Pot,1-2
+Fruit sorbet,106,518,1 h★★★ 51 min,62,"Guava (1)
+Passion fruit (1)
+Mango (2)
+White sugar (3)",Ice Cream Maker,1-2
+Pomegranate,107,111,1 d 3 h,22,N/A,Pomegranate tree (53rd crop),4-6
+Pomegranate tea,107,313,34 min★★★ 29 min,37,"Pomegranate (1)
+Tea leaf (4)",Tea Stand,2
+Lemon fudge,108,590,1 h 50 min★★★ 1 h 33 min,70,"Butter (2)
+Lemon (2)White sugar (2)Milk (3)",Fudge Shop,1
+Pomegranate cake,108,316,2 h 40 min★★★ 2 h 16 min,38,"Pomegranate (1)
+Egg (2)Cream (2)Wheat (6)",Cake Oven,2
+Hummus wrap,109,374,30 min★★★ 25 min,45,"Bread (2)
+Lettuce (1)Hummus (1)",Sandwich Bar,1-2
+Tropical yogurt,109,457,1 h★★★ 51 min,54,"Plain yogurt (1)
+Raspberry (4)Passion fruit (1)Mango (2)",Yogurt Maker,1-2
+Chili stew,109,370,2 h★★★ 1 h 42 min,44,"Chili Pepper (3)
+Bacon (2)Onion (2)Cream (1)",Stew Pot,1-2
+Plain cupcake,109,280,40 min★★★ 34 min,34,"Milk (2)
+White sugar (3)
+Egg (1)
+Wheat (5)",Cupcake Maker,1-2
+Guava cupcake,109,583,1 h 10 min★★★ 59 min,70,"Plain cupcake (1)
+Guava (2)
+Cream (1)",Cupcake Maker,1
+Rice ball,110,464,45 min★★★ 38 min,55,"Rice (20)
+Sesame (1)Plum (1)",Sushi Bar,1-2
+Peanut fudge,111,1141,1 h 30 min★★★ 1 h 16 min,136,"Butter (2)
+Cacao (2)White sugar (1)Peanuts (2)",Fudge Shop,1-2
+Tropical cupcake,112,572,1 h 30 min★★★ 1 h 16 min,68,"Plain cupcake (1)
+Pineapple (3)
+Coconut (2)",Cupcake Maker,1
+Winter stew,112,295,2 h 20 min★★★ 1 h 59 min,7,"Bacon (1)
+Potato (3)
+Onion (2)
+Mushroom (2)",Stew Pot,1-2
+Cookie cupcake,114,712,2 h★★★ 1 h 42 min,85,"Plain cupcake (1)
+Cream (2)
+Cookie (2)
+Cacao (1)",Cupcake Maker,1-2
+Plain waffles,114,198,25 min★★★ 21 min,24,"White sugar (2)
+Egg (3)
+Wheat (5)",Waffle Maker,1-2
+Berry waffles,114,604,35 min★★★ 29 min,72,"Plain waffles (1)
+Syrup (1)
+Raspberry (3)
+Blackberry (2)",Waffle Maker,1
+Orange salad,117,558,45 min★★★ 38 min,66,"Cheese (1)
+Lettuce (3)
+Pomegranate (1)
+Orange (2)",Salad Bar,1-2
+Chocolate waffles,117,637,40 min★★★ 34 min,76,"Plain waffles (1)
+Cacao (2)
+Strawberry (3)
+Banana (1)",Waffle Maker,1
+Breakfast waffles,119,424,45 min★★★ 38 min,51,"Plain waffles (1)
+Bacon (2)
+Egg (1)
+Asparagus (2)",Waffle Maker,1
+Oats,119,7,7 min,1,Oats (1),Field (54th crop),65-84
+Breakfast bowl,119,604,50 min★★★ 42 min,54,"Plain yogurt (1)
+Oats (4)
+Honey (1)
+Blackberry (2)",Yogurt Maker,?
+Apple porridge,119,522,20 min★★★ 17 min,62,"Apple (1)
+Apple jam (2)
+Oats (4)",Porridge Bar,1-2
+Pineapple coconut bars,120,284,40 min★★★ 34 min,34,"Coconut (1)
+White sugar (2)
+Oats (3)
+Pineapple (2)",Bakery,2
+Sweet porridge,120,466,45 min★★★ 38 min,55,"Peach (1)
+Honey (2)
+Oats (3)",Porridge Bar,1-2
+Rich soap,121,266,1 h 10 min★★★ 59 min,32,"Oats (2)
+Pomegranate (1)
+Coconut (1)",Bath Kiosk,1-2
+Fresh porridge,122,435,35 min★★★ 29 min,52,"Pomegranate (1)
+Mint (2)
+Coconut (2)
+Oats (3)",Porridge Bar,1
+Vanilla milkshake,124,673,45 min★★★ 38 min,80,"Vanilla ice cream (1)
+Cookie (2)
+Toffee (1)
+Syrup (1)",Milkshake Bar,1
+Mocha milkshake,125,856,30 min★★★ 25 min,125,"Chocolate ice cream (1)
+Espresso (2)",Milkshake Bar,1
+Fruity milkshake,126,759,35 min★★★ 29 min,90,"Peach ice cream (1)
+Orange (2)
+Lemon (1)",Milkshake Bar,1
